@@ -30,7 +30,7 @@ Regardless if you want to filter out small  scroll movements or guide your scrol
 
 ### Tweak it.
 <p align="center" style="margin-top: 20px;">
-<img src="./images/Tweak.png" alt="Adjust Setting Image" align="left" />
+<img src="./images/Tweak.png" alt="Adjust Setting Image" />
 <p>Make adjustments quickly and intuitively through ScrollGuides’ menu bar icon.  Scroll in the window you are currently using and cycle back to the menu to further refine your selections at will.</p>
 </p>
 
@@ -130,4 +130,3 @@ ScrollGuides gives you the ability to control the sensitivity of scrolling by fi
 <img src="./images/Login Items.png" alt="System Settings Icon" align="left" />
 <p>Find and select Login Items on the left hand side.  Add ScrollGuides to the list of apps under &quot;Open at Login&quot; on the right hand side by pressing the plus sign (+) at the bottom and selecting ScrollGuides from the Applications folder.</p>
 </p>
-
