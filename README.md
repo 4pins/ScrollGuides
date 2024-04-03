@@ -1,4 +1,4 @@
-# <img src="./images/ScrollGuidesIcon256.png" alt="ScrollGuides Icon" style="zoom: 33%;" /> ScrollGuides
+# ScrollGuides
 
 Scrolling: Powerfully Enhanced, Simply Adjustable
 
@@ -81,39 +81,39 @@ ScrollGuides gives you the ability to control the sensitivity of scrolling by fi
 
 ### Launch failed!
 <p align="center" style="margin-top: 20px;">
-<img src="./images/Launch Upgrade.png" alt="Correct Settings Dialog" align="left" />
+<img src="./images/Launch Upgrade.png" alt="Correct Settings Dialog" />
 <p>It happened, you tried to load ScrollGuides and you got the message pictured instead.  No problem!  Simply follow the steps in this section and you should be up and running shortly.</p>
 </p>
 
 ### Open System Settings.
 <p align="center" style="margin-top: 20px;">
-<img src="./images/System Settings Icon.png" alt="System Settings Icon" align="left" />
+<img src="./images/System Settings Icon.png" alt="System Settings Icon" />
 <p>It happened, you tried to load ScrollGuides and you got the message pictured instead.  No problem!  Simply follow the steps in this section and you should be up and running shortly.</p>
 </p>
 
 ### Select Privacy &amp; Security then Accessibility.
 <p align="center" style="margin-top: 20px;">
-<img src="./images/Navigate.png" alt="System Settings, Privacy & Security, Accessibility" align="left" />
+<img src="./images/Navigate.png" alt="System Settings, Privacy & Security, Accessibility" />
 <p>Careful!  You may think you want Accessibility on the left hand side, you do not.  What you are changing is a Privacy setting, so we need to select Privacy &amp; Security then select Accessibility in the main pane on the right.</p>
 </p>
 
 
 ### Empower it.
 <p align="center" style="margin-top: 20px;">
-<img src="./images/Empower.png" alt="System Settings, Privacy & Security, Accessibility" align="left" />
+<img src="./images/Empower.png" alt="System Settings, Privacy & Security, Accessibility" />
 <p>Click to enable ScrollGuides, then use your credential to complete the operation.</p>
 </p>
 
 
 ### Run it.
 <p align="center" style="margin-top: 20px;">
-<img src="./images/ScrollGuidesIcon256.png" alt="ScrollGuides Icon" align="left" />
+<img src="./images/ScrollGuidesIcon256.png" alt="ScrollGuides Icon" />
 <p>Click on the ScrollGuides icon in your Applications folder again and ScrollGuides will launch.</p>
 </p>
 
 ### Tweak it.
 <p align="center" style="margin-top: 20px;">
-<img src="./images/ScrollGuides Menu.png" alt="ScrollGuides Menu" align="left" >
+<img src="./images/ScrollGuides Menu.png" alt="ScrollGuides Menu" >
 <p>Make adjustments quickly and intuitively through ScrollGuides’ menu bar icon.  Scroll in the window you are currently using and cycle back to the menu to further refine your selections at will.</p>
 </p>
 
