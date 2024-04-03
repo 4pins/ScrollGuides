@@ -17,14 +17,14 @@ Regardless if you want to filter out small  scroll movements or guide your scrol
 
 ### Install it.
 <p align="center" style="margin-top: 20px;">
-<img src="./images/ScrollGuidesIcon256.png" alt="ScrollGuides Icon" align="left" />
+<img src="./images/ScrollGuidesIcon256.png" alt="ScrollGuides Icon" />
 <p>ScrollGuides is distributed as a self contained macOS Application.  Simply ensure it winds up in your Applications folder and you are ready to launch it.</p>
 </p>
 
 
 ### Launch it.
 <p align="center" style="margin-top: 20px;">
-<img src="./images/Launch Upgrade.png" alt="Correct Settings Dialog" align="right" />
+<img src="./images/Launch Upgrade.png" alt="Correct Settings Dialog" />
 <p>Click on the ScrollGuides icon for the first time and you’ll discover that it requires additional access to macOS in order to function.  Follow the steps indicated, then launch ScrollGuides again.<br><br>Note:  ScrollGuides only keeps it own settings and runs in a sandbox to prevent it from accessing any of your data without your explicit permission.</p>
 </p>
 
